@@ -85,6 +85,9 @@ h2 {
   max-width: 70%;
 }
 
+body{
+  background-color: #ddd;
+}
 
 .tabs {
   margin-bottom: 20px;
